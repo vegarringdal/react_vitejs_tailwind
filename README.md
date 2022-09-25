@@ -1,7 +1,7 @@
 # react_vitejs_tailwind
 Simple as possible for new people - no eslint/testing etc
 
-Uses bundler [vitejs](https://vitejs.dev/) with [typescript](https://www.typescriptlang.org/) and [tailwindcss](https://tailwindcss.com/)
+Uses bundler [vitejs](https://vitejs.dev/) with [typescript](https://www.typescriptlang.org/), [tailwindcss](https://tailwindcss.com/) & [react](https://reactjs.org/)
 
 # how to get started:
 
