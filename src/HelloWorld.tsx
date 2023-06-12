@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 
 export function HelloWorld() {
   const [count, setCount] = useState(5);
